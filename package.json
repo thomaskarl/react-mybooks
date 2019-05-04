@@ -1,6 +1,7 @@
 {
   "name": "mybooks",
   "version": "0.1.0",
+  "homepage": "https://thomasweb.studio/myBooks",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
